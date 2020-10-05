@@ -1,0 +1,15 @@
+All files have mains that run as soon as the program is launched
+
+mergesort.py:
+to run type in python3 mergesort.py
+
+insertsort.py:
+to run type in python3 insertsort.py
+
+mergeTime.py:
+to run type in python3 mergeTime.py
+When complete is will output "All Testing Complete!" to console
+
+insertTime.py:
+to run type in python3 insertTime.py
+When complete is will output "All Testing Complete!" to console
